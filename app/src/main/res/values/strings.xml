@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WordCrypter</string>
+    <string name="cryptButton">CRYPT</string>
+    <string name="decryptButton">DECRYPT</string>
+    <string name="cryptHint">Give the word you want to crypt:</string>
+    <string name="decryptHint">Give the key to decrypt the word:</string>
+</resources>
